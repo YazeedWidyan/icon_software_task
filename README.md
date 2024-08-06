@@ -51,4 +51,6 @@ npm start
 
 ### Screenshots:
 
-Link : https://drive.google.com/file/d/1Hl90OuL1B1Tpb9mmq27cLrIZohGYPEZA/view?usp=drive_link
+Home Page : https://drive.google.com/file/d/1Hl90OuL1B1Tpb9mmq27cLrIZohGYPEZA/view?usp=drive_link
+
+Person Form : https://drive.google.com/file/d/1myhmcBo1KzLfrgP03IxXcvR4DfpSpLKI/view?usp=sharing
