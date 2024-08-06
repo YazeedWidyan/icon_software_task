@@ -51,5 +51,4 @@ npm start
 
 ### Screenshots:
 
-<img width="400px" height="200px" 
- src="https://drive.google.com/file/d/1Hl90OuL1B1Tpb9mmq27cLrIZohGYPEZA/view?usp=drive_link" alt="XX">
+Link : https://drive.google.com/file/d/1Hl90OuL1B1Tpb9mmq27cLrIZohGYPEZA/view?usp=drive_link
