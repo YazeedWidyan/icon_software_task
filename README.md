@@ -51,11 +51,14 @@ npm start
 
 ### Screenshots:
 
-<img width="400px" height="200px" 
+**Home Page**
+<img width="400px" height="100%" 
  src="https://i.postimg.cc/PqB0yY8f/Screenshot-2024-08-06-195342.png" alt="XX">
 
-Home Page : https://drive.google.com/file/d/1Hl90OuL1B1Tpb9mmq27cLrIZohGYPEZA/view?usp=drive_link
+**Person Form**
+<img width="400px" height="100%" 
+ src="https://i.postimg.cc/cL6s576f/Screenshot-2024-08-06-195349.png" alt="XX">
 
-Person Form : https://drive.google.com/file/d/1myhmcBo1KzLfrgP03IxXcvR4DfpSpLKI/view?usp=sharing
-
-Person Details Page : https://drive.google.com/drive/u/2/folders/17x5QoyoC_voZTMruYp9pTy2OnjqfY1w6
+**Person Details Page**
+<img width="400px" height="100%" 
+ src="https://i.postimg.cc/sDgyvPYb/Screenshot-2024-08-06-195414.png" alt="XX">
