@@ -28,3 +28,28 @@ cd people-management
 npm install
 
 ```
+
+### Installing:
+
+1. Clone the repo to your local machine using git bash.
+
+```
+git clone <repository-url>
+```
+
+2. Install packeges
+
+```
+npm install
+```
+
+3. Run server
+
+```
+npm start
+```
+
+### Screenshots:
+
+<img width="400px" height="200px" 
+ src="https://drive.google.com/file/d/1Hl90OuL1B1Tpb9mmq27cLrIZohGYPEZA/view?usp=drive_link" alt="XX">
