@@ -51,14 +51,14 @@ npm start
 
 ### Screenshots:
 
-**Home Page**
+- **Home Page**
 <img width="400px" height="100%" 
  src="https://i.postimg.cc/pVZhwZVS/Screenshot-2024-08-06-201358.png" alt="XX">
 
-**Person Form**
+- **Person Form**
 <img width="400px" height="100%" 
  src="https://i.postimg.cc/cL6s576f/Screenshot-2024-08-06-195349.png" alt="XX">
 
-**Person Details Page**
+- **Person Details Page**
 <img width="400px" height="100%" 
  src="https://i.postimg.cc/sDgyvPYb/Screenshot-2024-08-06-195414.png" alt="XX">
