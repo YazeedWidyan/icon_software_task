@@ -53,7 +53,7 @@ npm start
 
 **Home Page**
 <img width="400px" height="100%" 
- src="https://i.postimg.cc/PqB0yY8f/Screenshot-2024-08-06-195342.png" alt="XX">
+ src="https://i.postimg.cc/pVZhwZVS/Screenshot-2024-08-06-201358.png" alt="XX">
 
 **Person Form**
 <img width="400px" height="100%" 
